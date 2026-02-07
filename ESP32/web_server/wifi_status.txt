@@ -1,0 +1,5 @@
+0	Idle (never tried)
+1	NO SSID available (router not found)
+3	Connected (success)
+4	Connection Failed 
+6	Wrong Password
