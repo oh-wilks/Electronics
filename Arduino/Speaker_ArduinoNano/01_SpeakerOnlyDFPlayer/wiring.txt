@@ -1,0 +1,22 @@
+Wiring 
+
+Power
+DFPlayer	Arduino Nano
+VCC	        5V
+GND	        GND
+
+Audio
+
+Option A – Speaker
+
+DFPlayer	Speaker
+SPK_1	    Speaker +
+SPK_2	    Speaker –
+
+Control pins (minimum)
+
+DFPlayer	Arduino Nano
+RX	        D10 (through 1kΩ resistor if you have one)
+TX	        D11
+
+(The resistor protects DFPlayer RX — not required for quick testing, but nice.)
