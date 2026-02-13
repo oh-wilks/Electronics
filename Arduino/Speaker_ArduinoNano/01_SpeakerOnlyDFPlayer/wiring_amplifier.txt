@@ -1,0 +1,24 @@
+
+DFPlayer	PAM8403
+DAC_R	    R-IN
+DAC_L   	L-IN
+GND	        GND
+
+Speakers Output
+PAM8403	    Speaker
+L+          Left speaker +
+L–	        Left speaker –
+R+	        Right speaker +
+R–	        Right speaker –
+
+
+Power Connections
+Module	        5V	GND
+Arduino Nano	5V	GND
+DFPlayer	    5V	GND
+PAM8403     	5V	GND
+
+Control
+DFPlayer	Arduino Nano
+RX	        D10 (with 1kΩ resistor recommended)
+TX      	D11
