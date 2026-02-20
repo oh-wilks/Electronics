@@ -1,0 +1,11 @@
+library https://github.com/dbuezas/lgt8fx
+
+ LGT8F328P Mini Nano Clone – Type-C/Micro USB, CH340C/HT42B534 Supported, LQFP32 for Arduino
+
+ Library 
+
+ https://raw.githubusercontent.com/dbuezas/lgt8fx/master/package_lgt8fx_index.json
+
+ select 
+
+ LGT8F328P board and voila
